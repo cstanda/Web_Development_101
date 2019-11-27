@@ -21,10 +21,6 @@ body{
   color: rgb(255,255,255, 1.0);
   width: 100%;
 }
-.skills{
-  
-}
-
 /* my photo */
 .img-thumbnail{
   width: 200px;
@@ -49,21 +45,27 @@ li a {
   color: rgba(255,255,0, 1.0);
   padding: 20px 30px;
 }
-
 /* thumbs up icon from fontawesome*/
 #thumbs-up{
   text-align: left;
 }
-
 /* change icon color on-hover */
 #social-link a:hover {
   color: rgba(0, 255, 0, 1.0);
 }
-
-/* Youtube video:Bitcoin: Beyond The Bubble - Full Documentary */
+/* Youtube video:What is æternity? */
 .resposive-vid{
   position: relative;
-  padding-bottom: 30.25%;
+  padding-bottom: 40.25%;
   padding-top: 25px;
-  height: 0;
+  height: 100%;
+  width 100%;
+}
+.iframe-resposive{
+	position: absolute;
+	top:0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	opacity: .8;
 }
