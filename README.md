@@ -6,7 +6,10 @@
 ## General information
 
 ### PORTFOLIO WEBSITE
-#### My personal website created using different technologies which include:
+#### My personal website created using different technologies showcasing my skills in front-end web development.
+
+## Technologies
+The technologies applied in the development of my portfolio website include the following: 
 - HTML5
 - CSS
 - [Bootstrap](https://getbootstrap.com "Front-end framework"): A framework for developing responsive, mobile first projects on the web" open source framework that can be used to develop responsive websites.
