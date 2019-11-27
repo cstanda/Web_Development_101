@@ -1,0 +1,69 @@
+body{
+  background-color: rgba(255,255,255, 1.0);
+  color: rgb(255,255,255, 1.0);
+}
+/* bootstrap jumbotron for body */
+.jumbotron{
+  margin: 0 1em;
+  background-color: rgba(0, 0, 0, 1.0);
+}
+/* Header navigation */
+.head{
+  background: rgba(0, 0, 0, 0.0);
+  position: sticky;
+  top: 5px;
+}
+/* Active navigation icons on-hover */
+#nav-icons a:hover{
+  color: rgba(255,0,255, 1.0);
+}
+#nav-icons{
+  color: rgb(255,255,255, 1.0);
+  width: 100%;
+}
+.skills{
+  
+}
+
+/* my photo */
+.img-thumbnail{
+  width: 200px;
+  margin: 0.1em;
+}
+figure.amb figcaption{
+  color: rgba(255,255,255, 1.0);
+  font-size: 0.8em;
+  background-color: rgba(0, 0, 0, 0);
+  text-align: center;
+  width: 100%;
+}
+/* Links icons  */
+li {
+  list-style: none;
+  display: inline;
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+}
+li a {
+  color: rgba(255,255,0, 1.0);
+  padding: 20px 30px;
+}
+
+/* thumbs up icon from fontawesome*/
+#thumbs-up{
+  text-align: left;
+}
+
+/* change icon color on-hover */
+#social-link a:hover {
+  color: rgba(0, 255, 0, 1.0);
+}
+
+/* Youtube video:Bitcoin: Beyond The Bubble - Full Documentary */
+.resposive-vid{
+  position: relative;
+  padding-bottom: 30.25%;
+  padding-top: 25px;
+  height: 0;
+}
