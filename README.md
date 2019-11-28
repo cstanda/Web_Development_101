@@ -20,4 +20,4 @@ The technologies applied in the development of my portfolio website include the 
 
 ## Setup
 To run this project, you simply require a web browser such as Google Chrome, Firefox Mozilla, Brave or any other browser that you know of.
-
+Click [here](https://cstanda.github.io/Web_Development_101 "Visit my portfolio website") to view my website.
