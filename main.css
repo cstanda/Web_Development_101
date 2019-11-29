@@ -1,15 +1,30 @@
-body{
-  background-color: rgba(0,0,0, 1.0);
-  color: rgb(255,255,255, 1.0);
+
+{
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
 }
-/* bootstrap jumbotron for body */
-.jumbotron{
-  margin: 0 1em;
-  background-color: rgba(0, 0, 0, 1.0);
+.menu-bar{
+  background-image: linear-gradient(to right, #b60000, #c50000);
 }
+.nav-link{
+  font-size: 16px;
+  color: #fff !important;
+  margin: 2px;
+}
+.navbar-nav{
+  text-align: center;
+}
+.menu-bar .navbar-toggler{
+  padding-right: 0;
+  outline: none;
+  border: none;
+}
+
 /* Header navigation */
 .head{
   background: rgba(0, 0, 0, 0.0);
+<<<<<<< HEAD
   position: sticky;
   top: 25px;
 }
@@ -21,15 +36,21 @@ body{
   color: rgba(255,255,255, 1.0);
   width: 100%;
 }
+=======
+  position: -webkit-sticky;
+  top: 5px;
+}
+
+>>>>>>> 9997c192a77692c6c63d9f7d0bd6f2f885503111
 /* my photo */
 .img-thumbnail{
   width: 200px;
   margin: 0.1em;
 }
 figure.amb figcaption{
-  color: rgba(255,255,255, 1.0);
+  color: rgb(195, 0, 0);
   font-size: 0.8em;
-  background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(255, 0, 0, 0);
   text-align: center;
   width: 100%;
 }
@@ -42,7 +63,7 @@ li {
   height: 100%;
 }
 li a {
-  color: rgba(255,255,0, 1.0);
+  color: rgb(255, 255, 255);
   padding: 20px 30px;
 }
 /* thumbs up icon from fontawesome*/
@@ -53,7 +74,7 @@ li a {
 #social-link a:hover {
   color: rgba(0, 255, 0, 1.0);
 }
-/* Youtube video:What is æternity? */
+/* Youtube video:What is ï¿½ternity? */
 .resposive-vid{
   position: relative;
   padding-bottom: 40.25%;
@@ -69,3 +90,13 @@ li a {
 	width: 100%;
 	opacity: .8;
 }
+
+#footer{
+  background-image:linear-gradient(to right,rgb(177, 0, 0),#9e0000);
+  color:#fff;
+  margin-top: 70px;
+
+}
+
+
+
