@@ -5,8 +5,8 @@
 
 ## General information
 
-### PORTFOLIO WEBSITE
-#### My personal website created using different technologies showcasing my skills in front-end web development.
+### æternity Blockchain Æmbassador Website
+#### Website created using different technologies showcasing my skills in front-end web development.
 
 ## Technologies
 The technologies applied in the development of my portfolio website include the following:
